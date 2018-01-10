@@ -7,6 +7,7 @@
 //
 
 #import <Cocoa/Cocoa.h>
+#import "Runtime/CSRuntime.h"
 
 //! Project version number for ContentSync.
 FOUNDATION_EXPORT double ContentSyncVersionNumber;
